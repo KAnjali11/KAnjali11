@@ -1,179 +1,289 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=K%20ANJALI&fontSize=70&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Java%20%26%20Spring%20Boot%20%E2%80%A2%20AI-Integrated%20Systems&descAlignY=52&descSize=17" width="100%"/>
-
-<a href="https://www.linkedin.com/in/k-anjali-65b19a322/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://anjalportfolio11.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=flat-square&logo=googlechrome&logoColor=black" /></a>
-<a href="https://leetcode.com/u/anjalikurva/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-<a href="mailto:anjalikurva11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=KAnjali11&style=flat-square&color=00E5FF&label=Profile+Views" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=K+Anjali;Java+%7C+Spring+Boot+%7C+React.js;AI%2FML+Enthusiast;Building+Secure+%26+Scalable+Applications" alt="Typing SVG" />
 
 <br>
 
-```java
-public class Anjali {
-    private String role     = "Full Stack Java Developer | AI & ML Enthusiast";
-    private String status   = "Final-year B.Tech CSE (AI&ML), Anurag Engineering College";
-    private String[] focus  = {"Spring Boot", "Secure REST APIs", "AI-integrated systems"};
-    private String motto    = "Build it secure, build it scalable, ship it clean.";
-}
+### `Software Engineer | Java & Spring Boot | React.js | AI/ML`
+
+**B.Tech CSE (AI&ML) Student · Building secure, scalable & real-world software**
+
+<br>
+
+<a href="mailto:anjalikurva11@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/k-anjali-65b19a322/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/KAnjali11">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://anjalportfolio11.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/anjalikurva/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=KAnjali11&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+---
+
+## `01` — About Me
+
+I'm a **Computer Science and Engineering (AI&ML) student** with practical experience building secure and scalable software applications using **Java, Spring Boot, React.js, MySQL, JavaScript and Python**.
+
+I enjoy designing **RESTful APIs, backend systems, AI-powered applications and database-driven solutions**, while applying clean coding, security and software engineering practices.
+
+> **My goal:** turn ideas into reliable software that solves real-world problems.
+
+---
+
+## `02` — What I'm Doing
+
+```text
+🔭 Building      → Full-stack & AI-powered applications
+🌱 Learning      → Advanced Spring Boot, Spring Security & AI/ML
+💡 Exploring     → Backend Engineering + AI Applications
+🤝 Collaboration → Java, Spring Boot, React & AI projects
+💬 Ask me about  → Java, Spring Boot, REST APIs, React.js & MySQL
+🎯 Focus         → Clean Code • Security • Problem Solving
 ```
 
-<br>
+---
 
-## 🧭 Overview
+## `03` — Tech Arsenal
 
-I build secure, database-driven software — mostly in **Java and Spring Boot** — and I pair it with **React** front ends and, lately, **AI-powered features** like the Gemini-backed chatbot below. A cyber security internship shaped how I think about backend work: I design APIs assuming they'll be attacked, not just assuming they'll be used correctly. I like projects that go from "idea" to "something a real user could click through" — not just a demo script.
+### ☕ Languages
 
-<br>
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,javascript,python" />
+</p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🎨 Frontend
 
-### 💼 Experience
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+</p>
 
-**Java Programming Intern**
-`Horizon TechX` · Jun – Jul 2026
-Built Java/Spring Boot backend features with a focus on clean, maintainable, OOP-driven code — including testing and performance optimization.
+### ⚙️ Backend
 
-**Cyber Security Intern**
-`Supraja Technologies` · Sep – Oct 2025
-Ran vulnerability assessments and penetration testing on live web apps; identified and mitigated SQLi and XSS risks.
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
 
-</td>
-<td width="50%" valign="top">
+`Spring Boot` · `REST APIs` · `Spring Security` · `JWT` · `Hibernate` · `Socket.IO`
 
-### 🎓 Education
+### 🗄️ Database & ORM
 
-**B.Tech CSE (AI & ML)** — CGPA 8.6/10
-Anurag Engineering College, Kodad · 2023 – 2027
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-**Junior College (MPC)** — 97.1%
-Govt. Junior College, Ieeja · 2021 – 2023
+`MySQL` · `SQL` · `Spring Data JPA` · `Hibernate ORM`
 
-**SSC** — CGPA 10/10
-Govt. High School, Uppal · 2021
+### 🤖 AI / ML
 
-</td>
-</tr>
-</table>
+`Supervised Learning` · `Unsupervised Learning` · `Gemini API` · `AI Applications`
 
-<br>
+### 🧰 Tools
 
-## 🚀 Projects
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,eclipse" />
+</p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🤖 AI Chatbot with Knowledge Base
-Role-based, JWT-secured chatbot that pairs Gemini's API with a MySQL-backed knowledge base for domain-specific answers.
-
-`Java` `Spring Boot` `Spring Security` `JWT` `React` `MySQL` `JPA` `Gemini API` `WebClient`
-
-**Highlights**
-- Secure authentication with role-based access control
-- RESTful APIs integrated with a Spring Data JPA + Hibernate knowledge base
-
-[`Repo →`](https://github.com/KAnjali11?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
+## `04` — Featured Projects
 
 ### 📊 Student Grade Tracker
-Full-stack CRUD system with automated grade computation and a real-time analytics dashboard.
 
-`Java` `Spring Boot` `React.js` `MySQL` `REST APIs` `Axios`
+**Full-stack student performance management application**
+
+Built with **Java, Spring Boot, React.js and MySQL**, featuring secure REST APIs, CRUD operations, student search, automated grade computation and an interactive analytics dashboard.
 
 **Highlights**
-- Secure REST APIs with search + automated grade computation
-- Live dashboard: totals, averages, highest/lowest marks
 
-[`Repo →`](https://github.com/KAnjali11?tab=repositories)
+* 📚 Student grade management
+* 🔄 CRUD operations
+* 🔎 Student search
+* 🧮 Automated grade computation
+* 📊 Performance analytics dashboard
+* ⚡ REST API integration
+* 📈 Total, average, highest & lowest marks
 
-</td>
-</tr>
-</table>
+**Stack:** `Java` `Spring Boot` `React.js` `MySQL` `REST APIs` `Axios`
 
-> Swap the two `Repo →` links for the exact URLs whenever you have them handy.
+<a href="https://github.com/KAnjali11">
+<img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br>
+---
 
-## 🛠️ Stack
+### 🤖 Artificial Intelligence Chatbot with Knowledge Base
+
+**AI-powered domain-specific chatbot**
+
+Developed an AI-powered chatbot using **Spring Boot, React.js, Spring Security, JWT, MySQL and Gemini API**, with a database-backed knowledge base and role-based access.
+
+**Highlights**
+
+* 🤖 AI-powered conversational interface
+* 🔐 Secure authentication
+* 🛡️ JWT-based security
+* 👥 Role-based user access
+* 🌐 RESTful API architecture
+* 🗄️ MySQL-backed knowledge base
+* 🔗 Spring Data JPA & Hibernate
+* ⚡ Gemini API integration
+* 🧠 Domain-specific AI responses
+
+**Stack:** `Java` `Spring Boot` `Spring Security` `JWT` `React.js` `MySQL` `JPA` `Hibernate` `Gemini API`
+
+<a href="https://github.com/KAnjali11">
+<img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## `05` — Experience
+
+### ☕ Java Programming Intern
+
+**Horizon TechX** · `June 2026 – July 2026`
+
+* Developed Java applications using object-oriented programming principles.
+* Designed and implemented backend functionality using Java and Spring Boot.
+* Performed testing, debugging and code optimization.
+* Focused on clean, efficient and maintainable code.
+
+### 🔐 Cyber Security Intern
+
+**Supraja Technologies** · `September 2025 – October 2025`
+
+* Performed vulnerability assessments and security testing on web applications.
+* Identified security risks using penetration testing techniques.
+* Worked with vulnerabilities including **SQL Injection (SQLi)** and **Cross-Site Scripting (XSS)**.
+* Applied security tools and best practices to improve application protection.
+
+---
+
+## `06` — Education
+
+### 🎓 Anurag Engineering College, Kodad
+
+**B.Tech — Computer Science & Engineering (AI&ML)**
+
+`2023 – 2027` · **CGPA: 8.6 / 10**
+
+### Academic Highlights
+
+| Qualification      | Institution                      |        Score |
+| ------------------ | -------------------------------- | -----------: |
+| B.Tech CSE (AI&ML) | Anurag Engineering College       | **8.6 / 10** |
+| MPC                | Government Junior College, Ieeja |    **97.1%** |
+| SSC                | Government High School, Uppal    |  **10 / 10** |
+
+---
+
+## `07` — Achievements
+
+🏆 **All India Naukri Campus Aptitude Test — 2026**
+Qualified in NCAT 2026, demonstrating analytical, quantitative and problem-solving abilities.
+
+🚀 **Novara 2K26 — 24-Hour Innovation Sprint**
+Participated in an innovation sprint focused on developing creative solutions.
+
+🔐 **Data Security Workshop & Hackathon**
+Completed a 2-day practical cybersecurity workshop and 1-day hackathon conducted by Supraja Technologies.
+
+👩‍🏫 **Class Representative**
+Served as a liaison between students and faculty, supporting communication and coordination.
+
+---
+
+## `08` — GitHub Analytics
 
 <div align="center">
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KAnjali11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-**Backend**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Data**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-<br>
-
-## 🏆 Achievements
-
-- 🎯 Qualified in the **All India Naukri Campus Aptitude Test (NCAT) 2026**
-- ⚡ Contributed a solution at **Novara 2K26**, a 24-Hour Innovation Sprint
-- 🔐 Completed **Supraja Technologies' Data Security (Level-1)** workshop & hackathon
-- 🗣️ Served as **Class Representative** — liaison between students and faculty
-
-<br>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KAnjali11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAnjali11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KAnjali11&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAnjali11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAnjali11&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=ffffff" width="95%" />
+<img src="https://streak-stats.demolab.com?user=KAnjali11&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
+---
+
+## `09` — Current Learning Path
+
+```text
+                    SOFTWARE ENGINEERING
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+       BACKEND          FRONTEND           AI/ML
+          │                │                │
+    Spring Boot         React.js       AI Applications
+    REST APIs           API Integration Gemini API
+    Spring Security                     Machine Learning
+    JWT
+          │
+       DATABASE
+          │
+      MySQL / SQL
+          │
+      JPA / Hibernate
+```
+
+---
+
+## `10` — Let's Connect
 
 <div align="center">
 
-### 📬 Let's build something
+### Build something meaningful. Learn something new. Repeat. 🚀
 
-<a href="https://www.linkedin.com/in/k-anjali-65b19a322/" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://anjalportfolio11.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/View%20Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+<br>
+
+<a href="https://github.com/KAnjali11">
+<img src="https://img.shields.io/badge/GitHub-KAnjali11-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/k-anjali-65b19a322/">
+<img src="https://img.shields.io/badge/LinkedIn-K%20Anjali-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/anjalikurva/">
+<img src="https://img.shields.io/badge/LeetCode-anjalikurva-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://anjalportfolio11.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome"/>
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<a href="mailto:anjalikurva11@gmail.com">
+<img src="https://img.shields.io/badge/anjalikurva11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+`Java` • `Spring Boot` • `React.js` • `MySQL` • `AI/ML` • `Cybersecurity`
+
+**Thanks for visiting my profile! ⭐**
 
 </div>
