@@ -216,9 +216,9 @@ Performed vulnerability assessments and security testing on web applications, wo
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KAnjali11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=KAnjali11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> -->
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAnjali11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAnjali11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> -->
 
 <br><br>
 
